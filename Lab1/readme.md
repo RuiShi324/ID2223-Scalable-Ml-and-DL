@@ -1,0 +1,1 @@
+This is the lab session for Machine Learning with Spark ML. In this session, we view and prepare the data, and then use linear regression model, decision tree classification, random forest regression and gradient-boosted tree regression to train and test. 

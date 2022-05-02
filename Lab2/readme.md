@@ -1,0 +1,1 @@
+This is lab2 session to train a network to produce sentence embedding, by implementing the proposed method of the Sentence-BERT (S-BERT). We download and prepare data, fine-tune a pre-trained Transformer network, and finally evaluate on the official Semantic Textual Similarity (STS) benchmark. We use my best fine-tuned model and creat a small semantic search system. 
